@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "first_name": "jhon",
+    "last_name": "doe",
+    "created": "2015-05-22T14:56:29.000Z",
+    "updated": "2015-05-22T14:56:29.000Z"
+  },
+  {
+    "id": "2",
+    "first_name": "joni",
+    "last_name": "setiyawan",
+    "created": "2015-05-22T14:56:29.000Z",
+    "updated": "2015-05-22T14:56:29.000Z"
+  },
+  {
+    "id": "3",
+    "first_name": "ilham",
+    "last_name": "ramadhan",
+    "created": "2015-05-22T14:56:29.000Z",
+    "updated": "2015-05-22T14:56:29.000Z"
+  }
+]
